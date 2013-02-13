@@ -1,0 +1,68 @@
+body {
+	background:black url('./images/fundo.jpg') no-repeat top left fixed;
+	text-align:center;
+	font-family: Sans-serif, serif;
+} 
+
+div {
+	width  : 931px;
+}
+
+h2 {
+	text-align : left;
+}
+
+#tudo{
+	height : auto;
+	background-color : white;
+	border : thick solid white;
+	
+} 
+
+#cabecalho{
+	background:black url("./images/cabecalho.jpg") no-repeat;
+	height : 200px;
+} 
+
+#corpo{
+	background-color : gray;
+	border : thick solid black;
+	width  : 921px;
+		height: 310px;
+
+	
+} 
+
+#voki{
+    padding: 7px 7px 7px 7px;
+    float: left;
+    color: black;
+    margin-left: 10px;
+    margin-top: 10px;
+
+	width  : 200px;
+	
+	background-color : black;
+	
+}
+
+#box_principal{
+	padding: 0px 7px 13px 7px; 
+	
+    float: left;
+    color: black;
+    margin-left: 10px;
+	margin-top: 10px;
+ 
+	text-align : justify;
+
+	width  : 660px;
+	height : 272px;
+	background-color : black;
+	color:white;
+}	
+
+#rodape{
+	height : 200px;
+	background-color : black;
+} 
